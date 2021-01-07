@@ -34,7 +34,7 @@
 
 **如何设计一个权限系统？**
 
-![](.\UserManage.png)
+![](UserManage.png)
 
 ## 二、一个自己实现的权限模型 BasicAuth： 
 
@@ -118,7 +118,7 @@
 
 项目整体机构如下：
 
-![](.\basic_auth_code.png)
+![](basic_auth_code.png)
 
 pom依赖非常简单，只需要引入spring-boot-starter 和 spring-boot-starter-web两个依赖。
 
