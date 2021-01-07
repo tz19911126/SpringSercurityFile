@@ -2329,7 +2329,7 @@ client_id=c1&client_secret=secret&grant_type=password&username=admin&password=ad
 
 拿到code后，就可以向UAA工程申请access_token
 
-![](.\oauth_authencode_postman.png)
+![](oauth_authencode_postman.png)
 
 以这种方式就能获得access_token。这里注意，redirect_uri需要与上一步一致。
 
